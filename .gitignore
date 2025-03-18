@@ -1,0 +1,49 @@
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore Anaconda/Miniconda environments
+.conda/
+.anaconda/
+
+# Ignore IDE configurations (VSCode, etc.)
+.vscode/
+
+# Ignore Python virtual environments
+myenv/
+
+# Ignore system files
+.DS_Store           # macOS
+Thumbs.db           # Windows
+
+# Ignore log files and temporary files
+*.log
+*.bak
+*.swp
+
+# Ignore sensitive or personal data
+*.env
+*.local
+
+# Ignore large datasets or output
+*.hdf5
+*.csv
+*.tsv
+
+# Ignore files/folders related to Microsoft OneDrive
+OneDrive/
+OneDrive - County of San Mateo/
+
+# Ignore some common system directories
+Application Data/
+Cookies/
+Documents/My Music/
+Documents/My Pictures/
+Documents/My Videos/
+Local Settings/
+My Documents/
+NetHood/
+PrintHood/
+Recent/
+SendTo/
+Start Menu/
+Templates/
